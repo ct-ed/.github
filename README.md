@@ -1,1 +1,1 @@
-# .github
+# Educational Resources   
